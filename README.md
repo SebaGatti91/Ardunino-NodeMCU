@@ -18,4 +18,3 @@ This project involves the development of an Arduino project with NodeMCU communi
 - Motor control using Arduino Uno.
 - User interface development using pure HTML and JavaScript.
 
-Feel free to elaborate further on specific functionalities, hardware configurations, or any additional details about the project.
